@@ -9,7 +9,7 @@
 - KyuHeon Song
 - Kookmin University (2019~)
   - majoring in MIS & IT
-- Interest : Computer Science, Network, Finance DeepLearning, Time Series Analysis, Data Visualization ...
+- Interest : Computer Science, Finance DeepLearning, Time Series Analysis, Data Visualization ...
 
 
 ## 📑 Certificate
