@@ -1,11 +1,5 @@
 ## Hi There 👋
 
-<p dir='auto'>
-<a href="https://skier-song9.notion.site/Programming-529c2e920f514e74aa8177a3a3f8bf7e?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white&link='https://skier-song9.notion.site/Programming-529c2e920f514e74aa8177a3a3f8bf7e?pvs=4')"/></a>
-<a href="https://song9ski-program.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5A4A?style=flat&logo=tistory&logoColor=white&link='https://song9ski-program.tistory.com/')"/></a>
-<a href="https://www.instagram.com/skier_song9/" rel="nofollow"><img src="https://camo.githubusercontent.com/c496c4f0b1e05287d707fb4c0498324f0ccc2b0f414d0ebfba8cd8133a8741eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d6464326137623f7374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f6a61652e5f5f2e6f6e652f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/skier_song9/" style="max-width: 100%;"></a>
-</p>
-
 - KyuHeon Song
 - Kookmin University (2019~)
   - majoring in MIS & IT
@@ -16,6 +10,27 @@
 ## 📑 Certificate
 
 - SQLD (2023.07.07.) [[K-data](https://www.dataq.or.kr/www/main.do)]
+
+## 📢 PR 
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td style='text-align:center; padding-top:15px;'><a href="https://song9ski-program.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5A4A?style=flat&logo=tistory&logoColor=white&link='https://song9ski-program.tistory.com/')"/></a></td>
+    <td>Technology blog</td>
+  </tr>
+  <tr>
+    <td style='text-align:center; padding-top:15px;'><a href="https://skier-song9.notion.site/Programming-529c2e920f514e74aa8177a3a3f8bf7e?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white&link='https://skier-song9.notion.site/Programming-529c2e920f514e74aa8177a3a3f8bf7e?pvs=4')"/></a></td>
+    <td>Study Note</td>
+  </tr>
+  <tr>
+    <td style='text-align:center; padding-top:15px;'><a href="https://www.instagram.com/skier_song9/" rel="nofollow"><img src="https://camo.githubusercontent.com/c496c4f0b1e05287d707fb4c0498324f0ccc2b0f414d0ebfba8cd8133a8741eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d6464326137623f7374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f6a61652e5f5f2e6f6e652f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/skier_song9/" style="max-width: 100%;"></a></td>
+    <td>SNS</td>
+  </tr>
+</table>
 
 ## 💫 Tech Stack 💫
 
