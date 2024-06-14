@@ -17,51 +17,113 @@
 
 - SQLD (2023.07.07.) [[K-data](https://www.dataq.or.kr/www/main.do)]
 
-## 💫 Tech Stack (Frequently used) 💫
-
-<h4>&#127760; Language </h4>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-<h4>💽 DataBase </h4>
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+## 💫 Tech Stack 💫
 
 
-<h4>📚 FrameWorks & Libraries</h4>
-
-
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)   
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-## 💫 Tech Stack (often used) 💫
-- tech I've used in past
-
-<h4>&#127760; Language </h4>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-
-<h4>📚 FrameWorks & Libraries</h4>
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-<h4>💽 DataBase </h4>
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<h4>🔗 BlockChain</h4>
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+<table>
+    <tr>
+        <th>Field</th>
+        <th>Skill List</th>
+        <th>Level</th>
+    </tr>
+    <tr>
+        <td>Artificial Intelligence</td>
+        <td>
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+            <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Anaconda-%44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+        </td>
+        <td>
+            <span>★</span>
+            <span>★</span>
+            <span class="star">★</span>
+            <span class="star">☆</span>
+            <span class="star">☆</span> 
+        </td>
+    </tr>
+    <tr>
+        <td>Front-End</td>
+        <td>
+            <img src="https://img.shields.io/badge/HTML5-EF7B3C.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/>
+        </td>
+        <td>
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">☆</span>
+            <span class="star">☆</span>
+            <span class="star">☆</span>
+        </td>
+    </tr>
+    <tr>
+        <td>Back-End</td>
+        <td>
+            <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+            <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+        </td>
+        <td>
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">☆</span>
+            <span class="star">☆</span>
+        </td>
+    </tr>
+    <tr>
+        <td>Database</td>
+        <td>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+        </td>
+        <td>
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">☆</span>
+            <span class="star">☆</span>
+        </td>
+    </tr>
+    <tr>
+        <td>Testing</td>
+        <td>
+            <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+        </td>
+        <td>
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">★</span>
+            <span class="star">☆</span>
+            <span class="star">☆</span>
+        </td>
+    </tr>
+    <tr>
+        <td>ETC</td>
+        <td>
+            <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+            <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+            <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+            <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+        </td>
+        <td>
+            <span class="star">★</span>
+            <span class="star">☆</span>
+            <span class="star">☆</span>
+            <span class="star">☆</span>
+            <span class="star">☆</span>
+        </td>
+    </tr>
+</table>
+<div style='margin-top:-5px;'>
+  <span><b>[Level Descriptioin]</b></span> <br>
+  <span class="star">★☆☆☆☆</span> : Simple tasks, school assignments level<br>
+  <span class="star">★★☆☆☆</span> : Able to complete toy projects<br>
+  <span class="star">★★★☆☆</span> : Capable of contributing to team projects<br>
+  <span class="star">★★★★☆</span> : Ready to work in field<br>
+  <span class="star">★★★★★</span> : Expert level<br>
+</div>
 
 
 ## ☎ Contacts
