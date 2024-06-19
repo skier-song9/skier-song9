@@ -46,7 +46,6 @@
         <td>
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
             <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Anaconda-%44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"/>
         </td>
         <td>
             <span>★</span>
