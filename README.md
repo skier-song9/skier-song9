@@ -4,7 +4,7 @@
 - Kookmin University (2019~)
   - majoring in MIS & IT
 - BITAMin 12th (undergraduates union bigdata club)
-- Interest : Computer Science, Finance DeepLearning, Time Series Analysis, Data Visualization ...
+- Interest : Natural Language Processing, Finance DeepLearning, Time Series Analysis, Data Visualization ...
 
 
 ## 📑 Certificate
