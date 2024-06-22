@@ -30,6 +30,12 @@
     <td style='text-align:center; padding-top:15px;'><a href="https://www.instagram.com/skier_song9/" rel="nofollow"><img src="https://camo.githubusercontent.com/c496c4f0b1e05287d707fb4c0498324f0ccc2b0f414d0ebfba8cd8133a8741eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d6464326137623f7374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f6a61652e5f5f2e6f6e652f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/skier_song9/" style="max-width: 100%;"></a></td>
     <td>SNS</td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/skier-song9/DL_study" rel="nofollow"><img src="https://img.shields.io/badge/-Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/skier-song9/DL_study" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/-Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/skier-song9/DL_study" style="max-width: 100%;"></a>
+    </td>
+    <td>Paper Review</td>
+  </tr>
 </table>
 
 ## 💫 Tech Stack 💫
