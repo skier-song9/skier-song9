@@ -86,7 +86,7 @@
         <td>
             <span class="star">★</span>
             <span class="star">★</span>
-            <span class="star">★</span>
+            <span class="star">☆</span>
             <span class="star">☆</span>
             <span class="star">☆</span>
         </td>
@@ -100,7 +100,7 @@
         <td>
             <span class="star">★</span>
             <span class="star">★</span>
-            <span class="star">★</span>
+            <span class="star">☆</span>
             <span class="star">☆</span>
             <span class="star">☆</span>
         </td>
