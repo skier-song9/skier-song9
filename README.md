@@ -8,7 +8,7 @@
 ## 💼 Experience
 
 - BITAMin 12th : Undergraduates Union BigData Club
-- Withmind (Intern) : Developed a Retrieval-Augmented Generation (RAG) model for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
+- [Withmind](https://withmind.net/) (Intern) : Developed a Retrieval-Augmented Generation (RAG) model for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
 
 ## 📑 Certificate
 
