@@ -1,11 +1,14 @@
 ## Hi There 👋
 
 - KyuHeon Song
-- Kookmin University (2019~)
-  - majoring in MIS & IT
-- BITAMin 12th (undergraduates union bigdata club)
+- Kookmin University (2019~2025)
+  - majoring in MIS
 - Interest : Natural Language Processing, Finance DeepLearning, Time Series Analysis, NLG Evaluation Task ...
 
+## 💼 Experience
+
+- BITAMin 12th : Undergraduates Union BigData Club
+- Withmind (Intern) : Developed a Retrieval-Augmented Generation (RAG) model for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
 
 ## 📑 Certificate
 
@@ -43,12 +46,17 @@
 
 |Field| Skill List | Level |
 | :--: | :--: | :--: |
-| AI | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | ★★★☆☆ |
+| AI | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | ★★★★☆ |
 |Front-End|![HTML5](https://img.shields.io/badge/HTML5-EF7B3C.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)|★★☆☆☆|
-| Back-End | ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ★★☆☆☆ |
+| Back-End | ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![flaskapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ★★★☆☆ |
 | DB | ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ★★☆☆☆ |
 | Testing | ![selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ★★★☆☆ |
-| ETC | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![flaskapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white) ![solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) | ★☆☆☆☆ |
+| ETC | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white) | ★☆☆☆☆ |
+* ★★★★★ : Expert
+* ★★★★☆ : Advanced
+* ★★★☆☆ : Competent
+* ★★☆☆☆ : Intermediate
+* ★☆☆☆☆ : Familiar
 
 
 ## ☎ Contacts
