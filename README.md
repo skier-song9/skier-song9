@@ -3,7 +3,7 @@
 - KyuHeon Song
 - Kookmin University (2019~2025)
   - majoring in MIS
-- Interest : Natural Language Processing, Finance DeepLearning, Time Series Analysis, NLG Evaluation Task ...
+- Interest : Natural Language Processing, NLG Evaluation Task, Time Series Analysis  ...
 
 ## 💼 Experience
 
