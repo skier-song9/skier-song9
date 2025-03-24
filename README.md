@@ -2,13 +2,14 @@
 
 - KyuHeon Song
 - Kookmin University (2019~2025)
-  - majoring in MIS
+  - B.S. in MIS
 - Interest : Natural Language Processing, NLG Evaluation Task, Time Series Analysis  ...
 
 ## 💼 Experience
 
+- [KOSMO](https://www.ikosmo.co.kr/main) Education : JAVA Developer Education
 - [BITAMin](https://cafe.naver.com/bitamin123/2985?boardType=L) 12th : Undergraduates Union BigData Club
-- [Withmind](https://withmind.net/) (Intern) : Developed a Retrieval-Augmented Generation (RAG) model for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
+- [Withmind](https://withmind.net/) (Intern) : Developed a Retrieval-Augmented Generation (RAG) for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
 
 ## 📑 Certificate
 
