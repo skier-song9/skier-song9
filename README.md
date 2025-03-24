@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/skier-song9/DL_study" rel="nofollow"><img src="https://img.shields.io/badge/-Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/skier-song9/DL_study" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/-Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/skier-song9/DL_study" style="max-width: 100%;"></a>
+      <a href="https://skier-song9.notion.site/1b5c8d3f60f581c6a81ee50b5537ed2e?v=1b5c8d3f60f5812b9a10000c75775d05&pvs=4" rel="nofollow"><img src="https://img.shields.io/badge/-notion-000000?style=flat-square&amp;logo=notion&amp;logoColor=white&amp;link=https://skier-song9.notion.site/1b5c8d3f60f581c6a81ee50b5537ed2e?v=1b5c8d3f60f5812b9a10000c75775d05&pvs=4" alt="notion Badge" data-canonical-src="https://img.shields.io/badge/-notion-000000?style=flat-square&amp;logo=notion&amp;logoColor=white&amp;link=https://skier-song9.notion.site/1b5c8d3f60f581c6a81ee50b5537ed2e?v=1b5c8d3f60f5812b9a10000c75775d05&pvs=4" style="max-width: 100%;"></a>
     </td>
     <td>Paper Review</td>
   </tr>
