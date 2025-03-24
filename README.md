@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-- KyuHeon Song
+- KyuHeoun Song
 - Kookmin University (2019~2025)
   - B.S. in MIS
 - Interest : Natural Language Processing, NLG Evaluation Task, Time Series Analysis  ...
