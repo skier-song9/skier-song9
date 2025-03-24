@@ -7,7 +7,7 @@
 
 ## 💼 Experience
 
-- [KOSMO](https://www.ikosmo.co.kr/main) Education : JAVA Developer Education
+- [KOSMO](https://www.ikosmo.co.kr/main) Java Developer Education : Java, Web Programming(HTML,CSS,JavaScript), JQuery & Ajax, SQL(Oracle, SQLite), Python, Selenium & Flask & FastAPI, Spring3.
 - [BITAMin](https://cafe.naver.com/bitamin123/2985?boardType=L) 12th : Undergraduates Union BigData Club
 - [Withmind](https://withmind.net/) (Intern) : Developed a Retrieval-Augmented Generation (RAG) for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
 
