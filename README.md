@@ -62,7 +62,6 @@
 
 ## ☎ Contacts
 - 0603paul@gmail.com
-- 0603paul@naver.com
 
 <ul style="margin-top:10;list-style-type:disc;">
 <li>
