@@ -3,7 +3,7 @@
 - KyuHeoun Song
 - Kookmin University (2019~2025)
   - B.S. in MIS
-- Interest : Information Retrieval, Embedding Vector Similarity Search, AI Agent
+- Interest : Retrieval Augmented Generation (RAG), Representation Learning & Text Embeddings, Natuaral Language Generation (NLG) Evaluation
 
 ## 💼 Experience
 
@@ -45,6 +45,10 @@
 
 ## 💫 Tech Stack 💫
 
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![flaskapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+<!-- 
 |Field| Skill List | Level |
 | :--: | :--: | :--: |
 | AI | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | ★★★☆☆ |
@@ -58,7 +62,7 @@
 * ★★★☆☆ : Competent
 * ★★☆☆☆ : Intermediate
 * ★☆☆☆☆ : Familiar
-
+-->
 
 ## ☎ Contacts
 - 0603paul@gmail.com
