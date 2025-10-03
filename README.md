@@ -1,15 +1,17 @@
 ## Hi There 👋
 
 - KyuHeoun Song
-- Kookmin University (2019~2025)
+- AI Engineer @ Onoma AI (2025.09 ~ present)
+- Kookmin University (2019.03 ~ 2025.02)
   - B.S. in MIS
 - Interest : Retrieval Augmented Generation (RAG), Representation Learning & Text Embeddings, Natuaral Language Generation (NLG) Evaluation
 
 ## 💼 Experience
 
-- [KOSMO](https://www.ikosmo.co.kr/main) Java Developer Education : Java, Web Programming(HTML,CSS,JavaScript), JQuery & Ajax, SQL(Oracle, SQLite), Python, Selenium & Flask & FastAPI, Spring3.
-- [BITAMin](https://cafe.naver.com/bitamin123/2985?boardType=L) 12th : Undergraduates Union BigData Club
-- [Withmind](https://withmind.net/) (Intern) : Developed a Retrieval-Augmented Generation (RAG) for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
+- [Kernel Academy](https://kernel.fastcampus.co.kr/) (Education) (2025.03 ~ 2025.10) : Upstage AI Lab 13th. AI Bootcamp.
+- [Withmind](https://withmind.net/) (Intern) (2024.09 ~ 2024.12) : Developed a Retrieval-Augmented Generation (RAG) for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
+- [BITAMin](https://cafe.naver.com/bitamin123/2985?boardType=L) (2023.08 ~ 2024.08) 12th : Undergraduates Union BigData Club
+- [KOSMO](https://www.ikosmo.co.kr/main) Java Developer Education (2022.09 ~ 2023.02) : Java, Web Programming(HTML,CSS,JavaScript), JQuery & Ajax, SQL(Oracle, SQLite), Python, Selenium & Flask & FastAPI, Spring3.
 
 ## 📑 Certificate
 
@@ -43,7 +45,7 @@
   </tr>
 </table>
 
-## 💫 Tech Stack 💫
+## 💫 Hard Skills 💫
 
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![flaskapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -52,20 +54,21 @@
 |Field| Skill List | Level |
 | :--: | :--: | :--: |
 | AI | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | ★★★☆☆ |
-|Front-End|![HTML5](https://img.shields.io/badge/HTML5-EF7B3C.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)|★★☆☆☆|
-| Back-End | ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![flaskapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ★★★☆☆ |
-| DB | ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ★★☆☆☆ |
-| Testing | ![selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ★★★☆☆ |
-| ETC | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white) | ★☆☆☆☆ |
+|Front-End|![HTML5](https://img.shields.io/badge/HTML5-EF7B3C.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)|★☆☆☆☆|
+| Back-End | ![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![flaskapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ★★☆☆☆ |
+| DB | ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ★☆☆☆☆ |
+| Testing | ![selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ★★☆☆☆ |
+| ETC | ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white) | ★☆☆☆☆ |
 * ★★★★★ : Expert
 * ★★★★☆ : Advanced
 * ★★★☆☆ : Competent
-* ★★☆☆☆ : Intermediate
+* ★★☆☆☆ : Feasible
 * ★☆☆☆☆ : Familiar
 -->
 
 ## ☎ Contacts
 - 0603paul@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/skiersong9)
 
 <ul style="margin-top:10;list-style-type:disc;">
 <li>
