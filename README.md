@@ -8,6 +8,7 @@
 
 ## 💼 Experience
 
+- [Onoma.AI](https://www.onomaai.com/) (2025.11 ~ present) : AI Researcher. 
 - [Kernel Academy](https://kernel.fastcampus.co.kr/) (Education) (2025.03 ~ 2025.10) : Upstage AI Lab 13th. AI Bootcamp.
 - [Withmind](https://withmind.net/) (Intern) (2024.09 ~ 2024.12) : Developed a Retrieval-Augmented Generation (RAG) for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
 - [BITAMin](https://cafe.naver.com/bitamin123/2985?boardType=L) (2023.08 ~ 2024.08) 12th : Undergraduates Union BigData Club
