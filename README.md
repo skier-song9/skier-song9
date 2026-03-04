@@ -2,6 +2,8 @@
 
 - KyuHeoun Song
 - AI Engineer @ Onoma AI (2025.09 ~ present)
+- Yosei University (2026.03 ~ present)
+  - M.S. in Digital Analytics
 - Kookmin University (2019.03 ~ 2025.02)
   - B.S. in MIS
 - Interest : Retrieval Augmented Generation (RAG), Representation Learning & Text Embeddings, Natuaral Language Generation (NLG) Evaluation
