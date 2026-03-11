@@ -1,19 +1,23 @@
 ## Hi There 👋
 
 - KyuHeoun Song
-- AI Engineer @ Onoma AI (2025.09 ~ present)
-- Yosei University (2026.03 ~ present)
-  - M.S. in Digital Analytics
-- Kookmin University (2019.03 ~ 2025.02)
-  - B.S. in MIS
+- AI Engineer @ Onoma AI (2025.11 ~ present)
 - Interest : Retrieval Augmented Generation (RAG), Representation Learning & Text Embeddings, Natuaral Language Generation (NLG) Evaluation
 
 ## 💼 Experience
 
 - [Onoma.AI](https://www.onomaai.com/) (2025.11 ~ present) : AI Researcher. 
-- [Kernel Academy](https://kernel.fastcampus.co.kr/) (Education) (2025.03 ~ 2025.10) : Upstage AI Lab 13th. AI Bootcamp.
 - [Withmind](https://withmind.net/) (Intern) (2024.09 ~ 2024.12) : Developed a Retrieval-Augmented Generation (RAG) for an AI-based HR service and contributed to filing a patent for an automated counselor role-play training system.
 - [BITAMin](https://cafe.naver.com/bitamin123/2985?boardType=L) (2023.08 ~ 2024.08) 12th : Undergraduates Union BigData Club
+
+## ✏️ Education
+
+- [Yosei University](https://digitalanalytics.yonsei.ac.kr/digital_analytics/index.do) (2026.03 ~ present)
+  - M.S. in Digital Analytics
+- [Kookmin University](https://biz.kookmin.ac.kr/undergraduate/info/intro) (2019.03 ~ 2025.02)
+  - B.S. in MIS
+
+- [Kernel Academy](https://kernel.fastcampus.co.kr/) (Education) (2025.03 ~ 2025.10) : Upstage AI Lab 13th. AI Bootcamp.
 - [KOSMO](https://www.ikosmo.co.kr/main) Java Developer Education (2022.09 ~ 2023.02) : Java, Web Programming(HTML,CSS,JavaScript), JQuery & Ajax, SQL(Oracle, SQLite), Python, Selenium & Flask & FastAPI, Spring3.
 
 ## 📑 Certificate
