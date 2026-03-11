@@ -1,8 +1,8 @@
 ## Hi There 👋
 
 - KyuHeoun Song
-- AI Engineer @ Onoma AI (2025.11 ~ present)
-- Interest : Retrieval Augmented Generation (RAG), Representation Learning & Text Embeddings, Natuaral Language Generation (NLG) Evaluation
+- AI Researcher @ Onoma AI (2025.11 ~ present)
+- Interest : Retrieval Augmented Generation (RAG / Graph RAG), Representation Learning & Text Embeddings, AI Agent
 
 ## 💼 Experience
 
