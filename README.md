@@ -12,7 +12,7 @@
 
 ## ✏️ Education
 
-- [Yosei University](https://digitalanalytics.yonsei.ac.kr/digital_analytics/index.do) (2026.03 ~ present)
+- [Yonsei University](https://digitalanalytics.yonsei.ac.kr/digital_analytics/index.do) (2026.03 ~ present)
   - M.S. in Digital Analytics
 - [Kookmin University](https://biz.kookmin.ac.kr/undergraduate/info/intro) (2019.03 ~ 2025.02)
   - B.S. in MIS
