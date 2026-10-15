@@ -1,4 +1,4 @@
-# Kyuheoun Song
+# Kyuheoun Song (Paul)
 
 AI researcher working on retrieval and agentic systems.
 
